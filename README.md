@@ -1,14 +1,14 @@
-### DemonVenom #
+## DemonVenom #
 =====================
 
-###INTRODUCTION
+### INTRODUCTION #
 ---------------------
 
 Hello, my name is Henry Hoffman! I am currently a student at the Penn State University majoring in Human-Centered Design and Development.
 As such, many of the repositories uploaded will be from my Information Sciences and Technology classes.
 However, many of them personal projects and outlets for my interest in computer programming. A guide to the repositories is listed below.
 
-###Personal Projects
+### Personal Projects #
 ---------------------
 
 MemeMod -  Modification to the video game Minecraft that add various Internet memes to the game! 
@@ -22,7 +22,7 @@ rock-paper-scissors -  Second project from The Odin Project. Uses JavaScript to 
 
 
 
-###IST CLASSES
+### IST CLASSES #
 ---------------------
 
 IST140 - Introduction to Application Programming
