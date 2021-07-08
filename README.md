@@ -210,7 +210,7 @@ PigLatin (Assignment 13)
 		 Still did not use JOptionPane (-5); in the Assignments file: Use the JOptionPane class for getting input from the user and displaying output to the user. 
 
 
-CharacterCounter
+CharacterCounter (Assignment 14)
 
 	Grade: 70
 	Comments:
