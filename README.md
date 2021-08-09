@@ -1,9 +1,10 @@
 ## DemonVenom #
 
+
 ### INTRODUCTION #
 ---------------------
 
-Hello! I am currently a student at the Penn State University majoring in Human-Centered Design and Development.
+Hello, my name is Henry Hoffman! I am currently a student at the Penn State University majoring in Human-Centered Design and Development.
 As such, many of the repositories uploaded will be from my Information Sciences and Technology classes.
 However, many of them personal projects and outlets for my interest in computer programming. A guide to the repositories is listed below.
 
