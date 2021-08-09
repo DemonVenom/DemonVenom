@@ -11,6 +11,7 @@ However, many of them personal projects and outlets for my interest in computer 
 ### PERSONAL PROJECTS #
 ---------------------
 
+DatingMod - Modification to the video game Minecraft that spawn Male and Female Entities/Mobs, which can then be initiated in a date. Can be spawned naturally or through spawn eggs.  
 MemeMod -  Modification to the video game Minecraft that add various Internet memes to the game! 
 
 
