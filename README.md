@@ -24,6 +24,9 @@ google-homepage -  My first web development project from The Odin Project. Uses 
 rock-paper-scissors -  Second project from The Odin Project. Uses JavaScript to prompt the user to play "Rock, Paper, Scissors" with the computer. 
 
 
+DaceyBot - Python Discord bot that returns pictures of my girlfriend's dog Dacey 
+
+
 
 ### IST CLASSES #
 ---------------------
