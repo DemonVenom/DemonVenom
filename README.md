@@ -31,6 +31,26 @@ DaceyBot - Python Discord bot that returns pictures of my friend's dog Dacey
 ### IST CLASSES #
 ---------------------
 
+HCDD440 - Human-Centered Design and Development Capstone Course
+
+YumFood - Dynamic Android mobile application project for HCDD440. Search for and save all of your favorite recipes! Improved and reimagined version of RecipEats.
+
+
+HCDD340 - Human-Centered Design for Mobile Computing
+
+RecipEats - Static Android mobile application project for HCDD340. Search for and save all of your favorite recipes! 
+
+
+IST402 - Emerging Issues and Technologies
+
+WeebAPIs - Personal Project made for IST402 to demonstrate using APIs within a website 
+
+
+IST210 - Organization of Data
+
+RandomSQL - Assortments of SQL files created during IST210 to used create, edit, and delete databases 
+
+
 IST140 - Introduction to Application Programming
 
 I will eventually sort each project into their own respective repository, but for now, they will remain in the ist140-projects repository.
