@@ -11,20 +11,19 @@ However, many of them personal projects and outlets for my interest in computer 
 ### PERSONAL PROJECTS #
 ---------------------
 
-DatingMod - Modification to the video game Minecraft that spawn Male and Female Entities/Mobs, which can then be initiated in a date.
+[DatingMod](https://github.com/DemonVenom/DatingMod) - Modification to the video game Minecraft that spawn Male and Female Entities/Mobs, which can then be initiated in a date.
 
-MemeMod -  Modification to the video game Minecraft that add various Internet memes to the game! 
+[MemeMod](https://github.com/DemonVenom/MemeMod) -  Modification to the video game Minecraft that add various Internet memes to the game! 
 
 
 
 The Odin Project
 
-google-homepage -  My first web development project from The Odin Project. Uses HTML and CSS to mimic the look of the Google homepage.
+[google-homepage](https://github.com/DemonVenom/google-homepage) -  My first web development project from The Odin Project. Uses HTML and CSS to mimic the look of the Google homepage.
 
-rock-paper-scissors -  Second project from The Odin Project. Uses JavaScript to prompt the user to play "Rock, Paper, Scissors" with the computer. 
+[rock-paper-scissors](https://github.com/DemonVenom/rock-paper-scissors) -  Second project from The Odin Project. Uses JavaScript to prompt the user to play "Rock, Paper, Scissors" with the computer. 
 
-
-DaceyBot - Python Discord bot that returns pictures of my friend's dog Dacey 
+[DaceyBot](https://github.com/DemonVenom/DaceyBot) - Python Discord bot that returns pictures of my friend's dog Dacey 
 
 
 
@@ -33,22 +32,22 @@ DaceyBot - Python Discord bot that returns pictures of my friend's dog Dacey
 
 HCDD440 - Human-Centered Design and Development Capstone Course
 
-YumFood - Dynamic Android mobile application project for HCDD440. Search for and save all of your favorite recipes! Improved and reimagined version of RecipEats.
+[YumFood](https://github.com/DemonVenom/YumFood) - Dynamic Android mobile application project for HCDD440. Search for and save all of your favorite recipes! Improved and reimagined version of RecipEats.
 
 
 HCDD340 - Human-Centered Design for Mobile Computing
 
-RecipEats - Static Android mobile application project for HCDD340. Search for and save all of your favorite recipes! 
+[RecipEats](https://github.com/DemonVenom/RecipEats) - Static Android mobile application project for HCDD340. Search for and save all of your favorite recipes! 
 
 
 IST402 - Emerging Issues and Technologies
 
-WeebAPIs - Personal Project made for IST402 to demonstrate using APIs within a website 
+[WeebAPIs](https://github.com/DemonVenom/WeebAPIs) - Personal Project made for IST402 to demonstrate using APIs within a website 
 
 
 IST210 - Organization of Data
 
-RandomSQL - Assortments of SQL files created during IST210 to used create, edit, and delete databases 
+[RandomSQL](https://github.com/DemonVenom/RandomSQL) - Assortments of SQL files created during IST210 to used create, edit, and delete databases 
 
 
 IST140 - Introduction to Application Programming
