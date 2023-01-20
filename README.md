@@ -11,17 +11,22 @@ However, many of them personal projects and outlets for my interest in computer 
 ### PERSONAL PROJECTS #
 ---------------------
 
+**Minecraft Modifications**
+
 [DatingMod](https://github.com/DemonVenom/DatingMod) - Modification to the video game Minecraft that spawn Male and Female Entities/Mobs, which can then be initiated in a date.
 
 [MemeMod](https://github.com/DemonVenom/MemeMod) -  Modification to the video game Minecraft that add various Internet memes to the game! 
 
 
 
-The Odin Project
+**The Odin Project**
 
 [google-homepage](https://github.com/DemonVenom/google-homepage) -  My first web development project from The Odin Project. Uses HTML and CSS to mimic the look of the Google homepage.
 
 [rock-paper-scissors](https://github.com/DemonVenom/rock-paper-scissors) -  Second project from The Odin Project. Uses JavaScript to prompt the user to play "Rock, Paper, Scissors" with the computer. 
+
+
+**Other**
 
 [DaceyBot](https://github.com/DemonVenom/DaceyBot) - Python Discord bot that returns pictures of my friend's dog Dacey 
 
@@ -30,40 +35,40 @@ The Odin Project
 ### IST CLASSES #
 ---------------------
 
-HCDD440 - Human-Centered Design and Development Capstone Course
+**HCDD440 - Human-Centered Design and Development Capstone Course**
 
 [YumFood](https://github.com/DemonVenom/YumFood) - Dynamic Android mobile application project for HCDD440. Search for and save all of your favorite recipes! Improved and reimagined version of RecipEats.
 
 
-HCDD340 - Human-Centered Design for Mobile Computing
+**HCDD340 - Human-Centered Design for Mobile Computing**
 
 [RecipEats](https://github.com/DemonVenom/RecipEats) - Static Android mobile application project for HCDD340. Search for and save all of your favorite recipes! 
 
 
-IST402 - Emerging Issues and Technologies
+**IST402 - Emerging Issues and Technologies**
 
 [WeebAPIs](https://github.com/DemonVenom/WeebAPIs) - Personal Project made for IST402 to demonstrate using APIs within a website 
 
 
-IST210 - Organization of Data
+**IST210 - Organization of Data**
 
 [RandomSQL](https://github.com/DemonVenom/RandomSQL) - Assortments of SQL files created during IST210 to used create, edit, and delete databases 
 
 
-IST140 - Introduction to Application Programming
+**IST140 - Introduction to Application Programming**
 
 I will eventually sort each project into their own respective repository, but for now, they will remain in the ist140-projects repository.
 Many of these are simple assignments and may not require their own repository.
 
 
-IST242 - Intermediate & Object-Oriented Application Development
+**IST242 - Intermediate & Object-Oriented Application Development**
 
 As a way of tracking all of the projects, their quality, and mistakes I might have made, I have included the grade and comments recieved on each project.
 Explanations for each project are placed in each repository README file. 
 "Assignments" are typically easier and less demanding than "Exercises" and the final group project integrates many of the lessons learned throughout the course.
 
 
-BMI-Calculator (Assignment 1)
+[BMI-CalculatorBMI-Calculator](https://github.com/DemonVenom/BMI-Calculator) (Assignment 1)
 
 	Grade: 95
 	Comments:
@@ -75,7 +80,7 @@ BMI-Calculator (Assignment 1)
 
 
 
-NumberGuessingGame (Assignment 2)
+[NumberGuessingGame](https://github.com/DemonVenom/NumberGuessingGame) (Assignment 2)
 
 	Grade: 100
 	Comments: 
@@ -84,7 +89,7 @@ NumberGuessingGame (Assignment 2)
 
 
 
-HornerAlgorithm (Assignment 3)
+[HornerAlgorithm](https://github.com/DemonVenom/HornerAlgorithm) (Assignment 3)
 
 	Grade: 100
 	Comments:
@@ -93,7 +98,7 @@ HornerAlgorithm (Assignment 3)
 
 
 
-TriangleVersion-0 (Assignment 4)
+[TriangleVersion-0](https://github.com/DemonVenom/TriangleVersion-0) (Assignment 4)
 
 	Grade: 100
 	Comments:
@@ -101,7 +106,7 @@ TriangleVersion-0 (Assignment 4)
 		 The toString method must have the signature: public String toString( ) 
 
 
-StudentGrader (Exercise 1)
+[StudentGrader](https://github.com/DemonVenom/StudentGrader) (Exercise 1)
 
 	Grade: 100
 	Comments: 
@@ -110,7 +115,7 @@ StudentGrader (Exercise 1)
 
 
 
-EmployeeWorkers (Assignment 5)
+[EmployeeWorkers](https://github.com/DemonVenom/EmployeeWorkers) (Assignment 5)
 
 	Grade: 100
 	Comments:
@@ -119,7 +124,7 @@ EmployeeWorkers (Assignment 5)
 
 
 
-CharacterTable (Assignment 6)
+[CharacterTable](https://github.com/DemonVenom/CharacterTable) (Assignment 6)
 
 	Grade: 100
 	Comments:
@@ -127,7 +132,7 @@ CharacterTable (Assignment 6)
 		Much better
 
 
-ComplexNumber (Exercise 2)
+[ComplexNumber](https://github.com/DemonVenom/ComplexNumber) (Exercise 2)
 
 	Grade: 100
 	Comments: 
@@ -135,7 +140,7 @@ ComplexNumber (Exercise 2)
 		Great job.
 
 
-TriangleVersion-1 (Assignment 7)
+[TriangleVersion-1](https://github.com/DemonVenom/TriangleVersion-1) (Assignment 7)
 
 	Grade: 95
 	Comments:
@@ -153,7 +158,7 @@ Triangle UML Diagram (Assignment 8)
 
 
 
-StudentGradebook (Exercise 3)
+[StudentGradebook](https://github.com/DemonVenom/StudentGradebook) (Exercise 3)
 
 	Grade: 90
 	Comments:
@@ -162,7 +167,7 @@ StudentGradebook (Exercise 3)
 
 
 
-KilometerConverter (Assignment 9)
+[KilometerConverter](https://github.com/DemonVenom/KilometerConverter) (Assignment 9)
 
 	Grade: 100
 	Comments:  
@@ -172,7 +177,9 @@ KilometerConverter (Assignment 9)
 
 
 
-StudentData (Assignment 10)
+
+
+[StudentData](https://github.com/DemonVenom/StudentData) (Assignment 10)
 
 	Grade: 88
 	Comments: 
@@ -184,7 +191,7 @@ StudentData (Assignment 10)
 
 
 
-TravelExpenses (Exercise 4)
+[TravelExpenses](https://github.com/DemonVenom/TravelExpenses) (Exercise 4)
 
 	Grade: 85
 	Comments:
@@ -201,7 +208,7 @@ TravelExpenses (Exercise 4)
 
 
 
-InvestCalc (Assignment 11)
+[InvestCalc](https://github.com/DemonVenom/InvestCalc) (Assignment 11)
 
 	Grade: 100
 	Comments:
@@ -209,7 +216,7 @@ InvestCalc (Assignment 11)
 	Much better.
 
 
-PieChart (Assignment 12)
+[PieChart](https://github.com/DemonVenom/PieChart) (Assignment 12)
 
 	Grade: 100
 	Comments:
@@ -218,7 +225,7 @@ PieChart (Assignment 12)
 
 
 
-CalculateInterest (Exercise 5)
+[CalculateInterest](https://github.com/DemonVenom/CalculateInterest) (Exercise 5)
 
 	Grade: 93
 	Comments: 
@@ -228,7 +235,7 @@ CalculateInterest (Exercise 5)
 		Missing newline at end of output file (-2) 
 
 
-PigLatin (Assignment 13)
+[PigLatin](https://github.com/DemonVenom/PigLatin) (Assignment 13)
 
 	Grade: 95
 	Comments:
@@ -236,7 +243,7 @@ PigLatin (Assignment 13)
 		 Still did not use JOptionPane (-5); in the Assignments file: Use the JOptionPane class for getting input from the user and displaying output to the user. 
 
 
-CharacterCounter (Assignment 14)
+[CharacterCounter](https://github.com/DemonVenom/CharacterCounter) (Assignment 14)
 
 	Grade: 70
 	Comments:
@@ -255,7 +262,7 @@ CharacterCounter (Assignment 14)
 		Characters: 6868 Lines: 67 Words: 1225
 
 
-MorseCode (Exercise 6)
+[MorseCode](https://github.com/DemonVenom/MorseCode) (Exercise 6)
 
 	Grade: 95
 	Comments:  
@@ -263,7 +270,7 @@ MorseCode (Exercise 6)
 		Does not exit cleanly (-5): Type 0 to end program Type 1 below for English to Morse Code Type 2 for Morse Code to English Type Selection Here and press [Enter]: 
 		
 
-Hangman (Group Project)
+[Hangman](https://github.com/DemonVenom/Hangman) (Group Project)
 
 	Grade: 85
 	Comments: 
