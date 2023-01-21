@@ -37,7 +37,7 @@ However, many of them personal projects and outlets for my interest in computer 
 
 **HCDD440 - Human-Centered Design and Development Capstone Course**
 
-[YumFood](https://github.com/DemonVenom/YumFood) - Dynamic Android mobile application project for HCDD440. Search for and save all of your favorite recipes! Improved and reimagined version of RecipEats.
+[YumFood](https://github.com/DemonVenom/YumFood) - Dynamic Android mobile application project for HCDD440. Search for and save all of your favorite recipes! Improved and reimagined version of RecipEats. Created utilizing the Spoonacular API.
 
 
 **HCDD340 - Human-Centered Design for Mobile Computing**
