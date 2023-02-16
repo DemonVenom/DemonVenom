@@ -21,9 +21,13 @@ However, many of them personal projects and outlets for my interest in computer 
 
 **The Odin Project**
 
-[google-homepage](https://github.com/DemonVenom/google-homepage) -  My first web development project from The Odin Project. Uses HTML and CSS to mimic the look of the Google homepage.
+[node-intro](https://github.com/DemonVenom/node-intro) -   First NodeJS project from The Odin Project. Uses JavaScript to make a simple HTTP directory on localhost.
+
+[javascript-exercises](https://github.com/DemonVenom/javascript-exercises) -   Simple JavaScript exercises from The Odin Project meant to freshen up JS skills.
 
 [rock-paper-scissors](https://github.com/DemonVenom/rock-paper-scissors) -  Second project from The Odin Project. Uses JavaScript to prompt the user to play "Rock, Paper, Scissors" with the computer. 
+
+[google-homepage](https://github.com/DemonVenom/google-homepage) -  My first web development project from The Odin Project. Uses HTML and CSS to mimic the look of the Google homepage.
 
 
 **Other**
