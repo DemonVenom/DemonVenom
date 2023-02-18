@@ -55,5 +55,6 @@ However, many of them personal projects and outlets for my interest in computer 
 
 
 **Other**
+
 For more lower-level projects made while attending Penn State [click here](https://github.com/DemonVenom/IST-Classes)
 
